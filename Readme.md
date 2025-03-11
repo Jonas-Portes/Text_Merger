@@ -20,4 +20,3 @@ Coloque todos os arquivos em texto que deseja concatenar dentro dessa pasta que 
 Coloque o Script dentro da pasta criada anteriormente.
 Execute o Script "TextMerger".
 Após a tela do scrip fechar, aparecerá um arquivo novo chamado "TXT Concatenado", esse sera o arquivo criado.
-# Text_Merger
